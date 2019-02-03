@@ -1,7 +1,7 @@
 # floatingCubes
 A grid of Cubes, floating like water
 
-![alt text](https://github.com/johnnyawesome/floatingCubes/blob/master/FloatingCubesLightMaterial/Images/floatingCubes.gif)
+![alt text](https://github.com/johnnyawesome/floatingCubes/blob/master/FloatingCubesLightMaterial/Images/FloatingCubes.gif)
 
 Floating Cubes is written in [P5JS](https://p5js.org/), which is a library that allows you to use Processing Synthax in Javascript.
 
