@@ -7,7 +7,7 @@ Floating Cubes is written in [P5JS](https://p5js.org/), which is a library that 
 
 ## How it works
 
-- The cubes are Objects
+- The cubes are objects
 - The grid of cubes is a two-dimenaional array
 - The wave-patterns are generated with two-dimensional [perlin noise](https://p5js.org/reference/#/p5/noise) 
 
