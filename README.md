@@ -13,5 +13,5 @@ Floating Cubes is written in [P5JS](https://p5js.org/), which is a library that 
 
 ## The idea
 
-I got the idea from this [gametrailer](https://www.youtube.com/watch?v=dTNC3MUtzlo). I wanted a version of the floating cubes without clipping. :)
+I got the idea from this [gametrailer (Bound)](https://www.youtube.com/watch?v=dTNC3MUtzlo). I wanted a version of the floating cubes without clipping. :)
 
